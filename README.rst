@@ -50,9 +50,23 @@ Install the following packages:
 
    pacman -S texlive-latexextra
 
------------------------------
+------------------------------------
 Getting Started on Microsoft Windows
------------------------------
+------------------------------------
+
+You have two options if you are using Windows, `Windows Subsystem for Linux (WSL)`_ or `Cygwin`_.
+
+Windows Subsystem for Linux (WSL)
+=================================
+
+Install `Ubuntu for WSL <https://www.microsoft.com/store/productId/9PDXGNCFSCZV>`_ from the Microsoft Store.
+
+Follow the `Getting Started on Debian-based Systems`_ instructions.
+
+See Microsoft's `Set up a WSL development environment <https://learn.microsoft.com/en-us/windows/wsl/setup/environment>`_ for tips on setting up your environment.
+
+Cygwin
+======
 
 Install Perl (for example, using a `Cygwin installation <https://cygwin.com/install.html>`_ and adding perl.
 See `sample instructions <https://bennierobinson.com/programming/2016/01/24/perl-windows-2016.html>`_ for more details)
